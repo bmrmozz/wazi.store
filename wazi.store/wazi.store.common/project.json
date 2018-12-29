@@ -1,5 +1,20 @@
 ﻿{
-  "version": "1.0.0-*",
+  "title": "wazi.store.common",
+  "copyright": "LittleFish Technologies",
+  "description": "The common library related to all store / merchant business logic",
+  "authors": [ "Brandon Roberts" ],
+  "packOptions": {
+    "iconUrl": "http://littlefish.africa/wp-content/uploads/2018/08/Asset-3.png",
+    "owners": [ "LittleFish Technologies" ],
+    "licenseUrl": "https://www.apache.org/licenses/LICENSE-2.0",
+    "requireLicenseAcceptance": true,
+    "summary": "The common library related to all store / merchant business logic",
+    "tags": [
+      "MongoDB"
+    ]
+  },
+  "language": "en",
+  "version": "1.0.2-*",
 
   "dependencies": {
     "NETStandard.Library": "1.6.1",

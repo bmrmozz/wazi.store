@@ -7,12 +7,12 @@
   "targets": {
     ".NETStandard,Version=v1.6": {},
     ".NETStandard,Version=v1.6/": {
-      "wazi.store.common/1.0.0": {
+      "wazi.store.common/1.0.2": {
         "dependencies": {
           "NETStandard.Library": "1.6.1",
           "wazi.data.core": "1.0.2",
           "wazi.data.models": "1.0.2",
-          "wazi.store.models": "1.0.0"
+          "wazi.store.models": "1.0.2"
         },
         "runtime": {
           "wazi.store.common.dll": {}
@@ -1169,7 +1169,7 @@
           "lib/netstandard1.6/wazi.data.models.dll": {}
         }
       },
-      "wazi.store.models/1.0.0": {
+      "wazi.store.models/1.0.2": {
         "dependencies": {
           "NETStandard.Library": "1.6.1",
           "Newtonsoft.Json": "12.0.1",
@@ -1183,7 +1183,7 @@
     }
   },
   "libraries": {
-    "wazi.store.common/1.0.0": {
+    "wazi.store.common/1.0.2": {
       "type": "project",
       "serviceable": false,
       "sha512": ""
@@ -1703,7 +1703,7 @@
       "serviceable": true,
       "sha512": "sha512-qAr0L2yzlEMMCdIj5/yj1smTyeEZWGWafDcOX0nncyrefdAjeRbmlm7Wb62a3cTpMOuF+vutsFWIuLT74w2Wyw=="
     },
-    "wazi.store.models/1.0.0": {
+    "wazi.store.models/1.0.2": {
       "type": "project",
       "serviceable": false,
       "sha512": ""
