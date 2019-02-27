@@ -93,7 +93,7 @@ namespace wazi.store
                 ID = Guid.NewGuid().ToString(),
                 Name = "wazimerchant",
                 Servers = new List<RepositoryAddress> {
-                    new RepositoryAddress { ServerName = "localhost", PortNo = 27017 }
+                    new RepositoryAddress { ServerName = "localhost1", PortNo = 27017 }
                 },
                 Server = new RepositoryAddress { ServerName = "localhost", PortNo = 27017 },
                 Type = RepositoryType.master
