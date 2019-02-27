@@ -12,12 +12,6 @@ Project("{2150E333-8FDC-42A3-9474-1A3956D46DE8}") = "Solution Items", "Solution 
 EndProject
 Project("{8BB2217D-0F2D-49D1-97BC-3654ED321F3B}") = "wazi.store", "src\wazi.store\wazi.store.xproj", "{87DF3CA5-D5C4-4AFA-B019-DEC7A9BE5140}"
 EndProject
-Project("{2150E333-8FDC-42A3-9474-1A3956D46DE8}") = "business logic", "business logic", "{F0ACBDB6-3ACD-4530-9CC3-B69360C295AC}"
-EndProject
-Project("{8BB2217D-0F2D-49D1-97BC-3654ED321F3B}") = "wazi.store.models", "wazi.store.models\wazi.store.models.xproj", "{08959D7F-EF0C-406D-9A30-8C073DE7CBF2}"
-EndProject
-Project("{8BB2217D-0F2D-49D1-97BC-3654ED321F3B}") = "wazi.store.common", "wazi.store.common\wazi.store.common.xproj", "{6C091BFB-DE97-45B3-96DB-0ED17EB00724}"
-EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
 		Debug|Any CPU = Debug|Any CPU
@@ -28,21 +22,11 @@ Global
 		{87DF3CA5-D5C4-4AFA-B019-DEC7A9BE5140}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{87DF3CA5-D5C4-4AFA-B019-DEC7A9BE5140}.Release|Any CPU.ActiveCfg = Release|Any CPU
 		{87DF3CA5-D5C4-4AFA-B019-DEC7A9BE5140}.Release|Any CPU.Build.0 = Release|Any CPU
-		{08959D7F-EF0C-406D-9A30-8C073DE7CBF2}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
-		{08959D7F-EF0C-406D-9A30-8C073DE7CBF2}.Debug|Any CPU.Build.0 = Debug|Any CPU
-		{08959D7F-EF0C-406D-9A30-8C073DE7CBF2}.Release|Any CPU.ActiveCfg = Release|Any CPU
-		{08959D7F-EF0C-406D-9A30-8C073DE7CBF2}.Release|Any CPU.Build.0 = Release|Any CPU
-		{6C091BFB-DE97-45B3-96DB-0ED17EB00724}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
-		{6C091BFB-DE97-45B3-96DB-0ED17EB00724}.Debug|Any CPU.Build.0 = Debug|Any CPU
-		{6C091BFB-DE97-45B3-96DB-0ED17EB00724}.Release|Any CPU.ActiveCfg = Release|Any CPU
-		{6C091BFB-DE97-45B3-96DB-0ED17EB00724}.Release|Any CPU.Build.0 = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE
 	EndGlobalSection
 	GlobalSection(NestedProjects) = preSolution
 		{87DF3CA5-D5C4-4AFA-B019-DEC7A9BE5140} = {97B43F33-0B80-486C-976A-54D65096E302}
-		{08959D7F-EF0C-406D-9A30-8C073DE7CBF2} = {F0ACBDB6-3ACD-4530-9CC3-B69360C295AC}
-		{6C091BFB-DE97-45B3-96DB-0ED17EB00724} = {F0ACBDB6-3ACD-4530-9CC3-B69360C295AC}
 	EndGlobalSection
 EndGlobal
